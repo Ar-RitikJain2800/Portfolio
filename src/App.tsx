@@ -613,9 +613,16 @@ function App() {
                 I'm always open to discussing new projects, creative ideas or opportunities to be part of your vision.
               </p>
               
+
               <div className="flex items-center mb-4">
-                <Mail size={24} className="mr-4" />
-                <span className="text-lg">ritikjain2800@gmail.com</span>
+                <a href="tel:8177769790" className="flex items-center justify-center text-lg text-black hover:text-gray-300 transition duration-300">
+              <Phone size={24} className="mr-2" />   (817) 776-9790
+            </a>
+              </div>
+              <div className="flex items-center mb-4">
+                <a href="mailto:ritikjain2800@gmail.com" className="flex items-center justify-center text-lg text-black hover:text-gray-300 transition duration-300">
+              <Mail size={24} className="mr-2" />   ritikjain2800@gmail.com
+            </a>
               </div>
               
               <div className="flex items-center mb-4">
@@ -623,10 +630,7 @@ function App() {
                 <a href="https://www.linkedin.com/in/ritikprafuljain/" target="_blank" rel="noopener noreferrer" className="text-lg hover:text-gray-600">linkedin.com/in/ritikprafuljain</a>
               </div>
               
-              <div className="flex items-center">
-                <Phone size={24} className="mr-4" />
-                <span className="text-lg">(817) 776-9790</span>
-              </div>
+              
             </div>
             
             <div className="md:w-1/2 md:pl-12">
