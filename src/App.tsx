@@ -213,7 +213,7 @@ function App() {
                 With a Master's in Construction Management and a Bachelor's in Architecture, I bring a unique blend of technical and creative expertise to the world of digital construction.
               </p>
               <p className="text-lg mb-6">
-                I specialize in refining BIM workflows and elevating project coordination using Revit, Navisworks, BIM 360, Rhino, and Bluebeam Revu tools. My roles at ATLARQ Consultants and Nashik Smart City allowed me to reduce design conflicts and implement cost-saving strategies effectively.
+                I specialize in refining BIM workflows and elevating project coordination using Revit, Navisworks, BIM 360, Rhino, and Bluebeam Revu tools. My roles at PDP Architects and Nashik Smart City allowed me to reduce design conflicts and implement cost-saving strategies effectively.
               </p>
               <p className="text-lg">
                 I'm dedicated to integrating cutting-edge technology with strategic planning to support efficient, innovative project execution.
